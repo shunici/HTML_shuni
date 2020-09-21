@@ -1,0 +1,2 @@
+http://jsfiddle.net/TbrtD/15/
+https://stackoverflow.com/questions/14987496/background-color-not-showing-in-print-preview/15253634
